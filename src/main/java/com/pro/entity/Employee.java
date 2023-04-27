@@ -1,4 +1,4 @@
-package com.pro.emp.entity;
+ package com.pro.entity;
 
 
 

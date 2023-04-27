@@ -1,4 +1,4 @@
-package com.pro.emp.config;
+package com.pro.config;
 
 
 import javax.net.ssl.HostnameVerifier;
@@ -26,7 +26,7 @@ public class ClientConfig {
 	}
 	 
 	 private HttpComponentsClientHttpRequestFactory validateSSL(){
-	     String location = "/Users/agraharamsaihariprasad/javatechie.jks";
+	     String location = "/Users/agraharamsaihariprasad/Documents/workspace-spring-tool-suite-4-4.18.0.RELEASE/ClientEmp/bin/main";
 	     String pass = "apple";
 	     SSLContext sslContext = null;
 	     try{
