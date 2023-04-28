@@ -1,8 +1,7 @@
- package com.pro.entity;
+package com.pro.emp.entity;
 
 
 
- 
 
 import java.nio.charset.StandardCharsets;
 import java.security.Key;
